@@ -1,7 +1,7 @@
 "use strict";
 /**
  * Arquivo: booleanType.ts
- * Descrição: arquivo responsável por ensinar conceitos básicos sobre "Tipo Boolean"
+ * Descrição: arquivo responsável por ensinar conceitos básicos sobre "Tipo boolean"
  * Data: 18/09/2023
  * Author: Jonathan Santos
  */

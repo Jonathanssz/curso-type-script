@@ -1,6 +1,6 @@
 /**
  * Arquivo: numberBigint.ts
- * Descrição: arquivo responsável por ensinar conceitos básicos sobre "Tipo Number e Bigint"
+ * Descrição: arquivo responsável por ensinar conceitos básicos sobre "Tipo number e bigint"
  * Data: 18/09/2023
  * Author: Jonathan Santos
  */
